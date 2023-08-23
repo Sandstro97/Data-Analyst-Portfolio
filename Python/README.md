@@ -1,7 +1,7 @@
-## Project Overview:
+## 1st Project Overview:
 In this data analytics project, I will analyze an e-commerce dataset to uncover trends in sales, customer behavior, and popular products. The goal is to provide insights into peak sales periods and purchasing patterns.
 
-## Questions that need to be answered:
+### Questions that need to be answered:
 1. How was the sales trend over the months?
 2. What are the most frequently purchased products?
 3. How many products does the customer purchase in each transaction?
