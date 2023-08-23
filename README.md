@@ -1,4 +1,4 @@
-# Data-Analyst-Portfolio
+# My Data Analyst Portfolio
 
 Welcome to my portfolio, where insights meet innovation! As a freshly certified Data Analyst through Google's rigorous Data Analytics Certification program, I am thrilled to showcase my newfound expertise in transforming data into actionable intelligence.
 
