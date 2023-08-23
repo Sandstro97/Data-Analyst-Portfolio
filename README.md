@@ -15,5 +15,4 @@ I am excited to embark on this data-driven journey, collaborating with teams to 
 Here's to turning data into decisions!
 
 Best regards,
-
 Sarah Sandstrom
