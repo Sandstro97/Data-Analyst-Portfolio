@@ -14,5 +14,4 @@ I am excited to embark on this data-driven journey, collaborating with teams to 
 
 Here's to turning data into decisions!
 
-Best regards,
 Thank you for your time, I look forward to hearing from you soon.
