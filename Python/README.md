@@ -7,4 +7,4 @@ In this data analytics project, I will analyze an e-commerce dataset to uncover 
 3. How many products does the customer purchase in each transaction?
 4. Based on your findings, what strategy could you recommend to the business to gain more profit?
 
-To see more about the project see [uk-ecommerce-sales-analysis.ipynb ]
+To see more about the project see https://github.com/Sandstro97/Data-Analyst-Portfolio/blob/main/Python/uk-ecommerce-sales-analysis.ipynb
